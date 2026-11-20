@@ -1,4 +1,4 @@
-let admin = "ZNU!";
+let admin = "ZIEIT";
 
 const age = 24;
 
