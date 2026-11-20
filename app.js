@@ -1,3 +1,3 @@
-let admin = "ZIEIT!";
+let admin = "ZNU!";
 
 const age = 24;
